@@ -1,6 +1,6 @@
  #leaderboard
 import random
-usernames = ['Felipe', 'felyolo', 'idont', 'udo', 'hamzah']
+usernames = ['Josh', 'Rick', 'Hank', 'Ahmad', 'hamzah']
 scores = [182, 924, 301, 992, 5302]
 
 def game():
